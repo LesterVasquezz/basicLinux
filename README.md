@@ -1,0 +1,3 @@
+# basicLinux
+
+ALgunos comandos basicos 
